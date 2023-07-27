@@ -1,6 +1,6 @@
 {
   "name": "get-recipes-today",
-  "homepage": "http://kyle-skysmith.github.io/get-recipes-today",
+  "homepage": "https://kyle-skysmith.github.io/get-recipes-today",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
